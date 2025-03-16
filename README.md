@@ -17,7 +17,7 @@ npm install
 
 ### 3. Configure Environment Variables
 
-PORT=5000
+PORT=5000  
 MONGO_URI=YOUR_MONGO_CONNECTION_URL
 
 ### 4. Start the Development Server
